@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shkris2001shsh2001-cmyk.github.io/sitemap.xml
+
